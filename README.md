@@ -1,4 +1,6 @@
 <h1 align="center">
+  <img src="./Programmer%20Coding%20GIF.gif" width="200" alt="Programmer Coding" />
+  <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=540&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%E2%80%A2+Node.js+%E2%80%A2+React+Native;Founder+%40+AURIC" alt="Full-Stack Developer" />
 </h1>
 
