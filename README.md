@@ -34,8 +34,9 @@
 
 ## 🔥 GitHub Streak
 
+<!-- Self-hosted from real contribution history; served from this repo, never rate-limits. Snapshot: re-generate to refresh. -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=real-GBOY&hide_border=true&background=0d1117&ring=38bdf8&fire=f0883e&currStreakLabel=38bdf8&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=1f2937" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/real-GBOY/real-GBOY/main/assets/streak.svg" alt="GitHub streak stats" />
 </p>
 
 ---
