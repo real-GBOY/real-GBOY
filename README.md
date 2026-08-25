@@ -16,6 +16,23 @@
   <img src="https://skillicons.dev/icons?i=css,mongodb,postgres,python,fastapi,git,github" alt="CSS, MongoDB, PostgreSQL, Python, FastAPI, Git, GitHub" />
 </p>
 
+## 📌 Popular Repositories
+
+<table>
+  <tr>
+    <td><a href="https://github.com/real-GBOY/NOVA-Front-ME"><img src="https://raw.githubusercontent.com/real-GBOY/real-GBOY/main/assets/repos/nova.svg" alt="NOVA-Front-ME" width="410" /></a></td>
+    <td><a href="https://github.com/real-GBOY/AI-Hackthon-Bogies"><img src="https://raw.githubusercontent.com/real-GBOY/real-GBOY/main/assets/repos/aihack.svg" alt="AI-Hackthon-Bogies" width="410" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/real-GBOY/AURIC"><img src="https://raw.githubusercontent.com/real-GBOY/real-GBOY/main/assets/repos/auric.svg" alt="AURIC" width="410" /></a></td>
+    <td><a href="https://github.com/real-GBOY/Build_Art"><img src="https://raw.githubusercontent.com/real-GBOY/real-GBOY/main/assets/repos/buildart.svg" alt="Build_Art" width="410" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/real-GBOY/TaroVida"><img src="https://raw.githubusercontent.com/real-GBOY/real-GBOY/main/assets/repos/tarovida.svg" alt="TaroVida" width="410" /></a></td>
+    <td><a href="https://github.com/real-GBOY/MGMT-Backend"><img src="https://raw.githubusercontent.com/real-GBOY/real-GBOY/main/assets/repos/mgmt.svg" alt="MGMT-Backend" width="410" /></a></td>
+  </tr>
+</table>
+
 ---
 
 ## 📊 GitHub Statistics
