@@ -76,10 +76,17 @@
 
 ## About Me
 
-- 🎯 Full-stack developer building web and mobile products with React, React Native, and Node.js
-- 🏢 Founder of **AURIC** — a premium digital product agency
-- 🌱 Currently working with AI / RAG systems and learning German
-- 📍 Based in Egypt
+Hi, I'm Mahmoud.
+
+I write code, break things, Google the error, fix the thing, and then somehow break something completely unrelated.
+
+I'm a developer who likes building real stuff, especially where software, AI, and questionable amounts of caffeine meet.
+
+Currently exploring AI, LLMs, RAG, full stack development, backend systems, and whatever rabbit hole I accidentally fall into next.
+
+I don't always know what I'm doing. I just make sure it works before anyone notices.
+
+If you found something interesting in my repositories, feel free to look around. Just don't judge the commit messages.
 
 ---
 
