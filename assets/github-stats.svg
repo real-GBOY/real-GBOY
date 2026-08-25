@@ -1,0 +1,23 @@
+<svg width="460" height="200" viewBox="0 0 460 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub statistics for Golden">
+<rect x="0.5" y="0.5" width="459" height="199" rx="10" fill="#0d1117" stroke="#1f2a37"/>
+<text x="26" y="40" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18" font-weight="600" fill="#38bdf8">Golden’s GitHub Stats</text>
+<circle cx="30" cy="71" r="4" fill="#f0883e"/>
+<text x="46" y="76" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" fill="#c9d1d9">Total Contributions (last yr)</text>
+<text x="300" y="76" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" font-weight="600" fill="#f0883e" text-anchor="start">769</text>
+<circle cx="30" cy="95" r="4" fill="#f0883e"/>
+<text x="46" y="100" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" fill="#c9d1d9">Total Commits (last yr)</text>
+<text x="300" y="100" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" font-weight="600" fill="#f0883e" text-anchor="start">740</text>
+<circle cx="30" cy="119" r="4" fill="#f0883e"/>
+<text x="46" y="124" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" fill="#c9d1d9">Owned Repositories</text>
+<text x="300" y="124" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" font-weight="600" fill="#f0883e" text-anchor="start">64</text>
+<circle cx="30" cy="143" r="4" fill="#f0883e"/>
+<text x="46" y="148" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" fill="#c9d1d9">Stars Earned</text>
+<text x="300" y="148" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" font-weight="600" fill="#f0883e" text-anchor="start">1</text>
+<circle cx="30" cy="167" r="4" fill="#f0883e"/>
+<text x="46" y="172" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" fill="#c9d1d9">Followers</text>
+<text x="300" y="172" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" font-weight="600" fill="#f0883e" text-anchor="start">7</text>
+<circle cx="400" cy="110" r="42" fill="none" stroke="#1f2a37" stroke-width="7"/>
+<circle cx="400" cy="110" r="42" fill="none" stroke="#38bdf8" stroke-width="7" stroke-linecap="round" stroke-dasharray="202.9 263.9" transform="rotate(-90 400 110)"/>
+<text x="400" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="20" font-weight="700" fill="#c9d1d9" text-anchor="middle">769</text>
+<text x="400" y="126" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#8b949e" text-anchor="middle">contributions</text>
+</svg>
