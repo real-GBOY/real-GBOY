@@ -1,0 +1,9 @@
+<svg width="420" height="118" viewBox="0 0 420 118" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AURIC">
+<rect x="0.5" y="0.5" width="419" height="117" rx="9" fill="#0d1117" stroke="#1f2a37"/>
+<path d="M20 26 h13 a2 2 0 0 1 2 2 v14 a2 2 0 0 1 -2 2 h-13 a2 2 0 0 1 -2 -2 v-14 a2 2 0 0 1 2 -2 z M24 26 v18" fill="none" stroke="#8b949e" stroke-width="1.6"/>
+<text x="44" y="40" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="15" font-weight="700" fill="#38bdf8">AURIC</text>
+<text x="20" y="66" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#8b949e">Marketing site for AURIC, a premium</text>
+<text x="20" y="83" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#8b949e">digital product agency.</text>
+<circle cx="24" cy="100" r="5" fill="#3178c6"/>
+<text x="34" y="104" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">TypeScript</text>
+</svg>
