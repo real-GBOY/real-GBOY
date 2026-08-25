@@ -1,15 +1,13 @@
 # Save this file in your profile repo at: .github/workflows/snake.yml
-# It generates a contribution "snake" animation from your own data and
-# pushes the SVG to an "output" branch, so the image is served from YOUR
-# repository and never depends on a rate-limited third-party service.
+# Generates a contribution "snake" from your own data and pushes the SVG to the
+# "output" branch, so the image is served from YOUR repo and never rate-limits.
 
 name: Generate Snake Animation
 
 on:
   schedule:
-    # Re-generates twice a day so it stays current
     - cron: "0 */12 * * *"
-  workflow_dispatch:   # lets you run it manually from the Actions tab
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -22,13 +20,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate the snake SVGs
+      - name: Generate the snake SVGs (themed cyan/amber)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%23f0883e&color_dots=%23161b22,%230c2d3a,%23134b5f,%232b8fb0,%2338bdf8
+            dist/github-snake-dark.svg?color_snake=%23f0883e&color_dots=%23161b22,%230c2d3a,%23134b5f,%232b8fb0,%2338bdf8
 
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
