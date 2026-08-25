@@ -8,7 +8,7 @@
 
 ---
 
-## 💻 Tech Stack `<>`
+##  Tech Stack `<>`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,tailwind,vite,html,css" alt="JavaScript, React, Node.js, Express, Tailwind, Vite, HTML, CSS" />
@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=real-GBOY&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f0883e&text_color=c9d1d9&ring_color=38bdf8" alt="GitHub stats" height="165" />
@@ -27,7 +27,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=real-GBOY&hide_border=true&background=0d1117&ring=38bdf8&fire=f0883e&currStreakLabel=38bdf8&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=1f2937" alt="GitHub streak" />
@@ -35,7 +35,7 @@
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=real-GBOY&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f0883e&area=true&hide_border=true" alt="Contribution activity graph" />
@@ -43,16 +43,16 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎯 Full-stack developer building web and mobile products with React, React Native, and Node.js
-- 🏢 Founder of **AURIC** — a premium digital product agency
-- 🌱 Currently working with AI / RAG systems and learning German
-- 📍 Based in Egypt
+-  Full-stack developer building web and mobile products with React, React Native, and Node.js
+-  Founder of **AURIC** — a premium digital product agency
+-  Currently working with AI / RAG systems and learning German
+-  Based in Egypt
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-mohamed-nayel-363b47222">
