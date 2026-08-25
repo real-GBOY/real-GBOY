@@ -11,9 +11,9 @@
 ## 💻 Tech Stack `<>`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,tailwind,vite,html,css" alt="JavaScript, React, Node.js, Express, Tailwind, Vite, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,tailwind,vite,html" alt="JavaScript, TypeScript, React, Node.js, Express, Tailwind, Vite, HTML" />
   <br />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,python,fastapi,bootstrap,git,github" alt="MongoDB, PostgreSQL, Python, FastAPI, Bootstrap, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=css,mongodb,postgres,python,fastapi,git,github" alt="CSS, MongoDB, PostgreSQL, Python, FastAPI, Git, GitHub" />
 </p>
 
 ---
@@ -21,15 +21,13 @@
 ## 📊 GitHub Statistics
 
 <!--
-  NOTE: these cards load from the free shared github-readme-stats instance,
-  which sometimes shows a broken image when it hits GitHub's API rate limit.
-  For a card that (almost) never breaks, self-host your own instance:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-  then replace "github-readme-stats.vercel.app" below with your own domain.
+  These cards are generated from real data and committed to this repo (assets/),
+  so they are served from GitHub itself and never hit a third-party rate limit.
+  They are a snapshot; re-generate the SVGs to refresh the numbers.
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=real-GBOY&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f0883e&text_color=c9d1d9&ring_color=38bdf8" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-GBOY&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages" height="165" />
+  <img src="https://raw.githubusercontent.com/real-GBOY/real-GBOY/main/assets/github-stats.svg" alt="Golden's GitHub stats" />
+  <img src="https://raw.githubusercontent.com/real-GBOY/real-GBOY/main/assets/top-langs.svg" alt="Most used languages" />
 </p>
 
 ---
